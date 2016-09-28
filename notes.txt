@@ -1,0 +1,35 @@
+
+--- header
+nav:
+
+about
+products
+blog
+contact
+
+
+--- landing
+
+ michele blanche inspired
+    Original fine art prints
+
+creativity captured
+
+
+product types:
+
+totes
+pillows
+chair cushions
+calendar
+canvas prints
+phone cases
+leggings
+shower curtains
+curtains
+ottoman
+tapestry banner
+skirts
+wall mural
+custom wall mural
+zipper bag
